@@ -1,6 +1,8 @@
 # Open the source :zap:
 
-This document aims to provide a rationale for open sourcing and a clear process on how to achieve this in any company. 
+This document aims to provide a simple rationale for open sourcing and a clear process on how to achieve this in any company. 
+
+For a more in depth guide on building and maintaing open source projects I recommend https://opensource.guide/.
 
 ## Why you open source
 
@@ -9,6 +11,12 @@ Your company differentiates itself by offering a core product not by creating th
 It's also a great recruitment tool. Developers can look at the code you produce and see how you work, which is the kind of work they might be doing if they join your team.
 
 Developers go the extra mile to improve the quality of a tool they’re sharing with the community.
+
+Some more resources about why you should open source can be found here:
+
+* https://opensource.google.com/docs/why/
+* https://opensource.com/life/15/12/why-open-source
+* https://github.com/open-source
 
 ## When to open source
 
