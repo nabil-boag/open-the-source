@@ -1,10 +1,10 @@
-# Opening the source :zap:
+# Open the source :zap:
 
-This document aims to provide a rationale for opening sourcing and a clear process on how to achieve this in any company. 
+This document aims to provide a rationale for open sourcing and a clear process on how to achieve this in any company. 
 
 ## Why you open source
 
-Your company differentiates itself by offering a core product not by creating the best cloud provisioning tool or the nicest slider implementation (unless that's what you do :D). If you open source, you can get other people to help solve those "infrastructure" challenges.
+Your company differentiates itself by offering a core product not by creating the best cloud provisioning tool or the nicest slider implementation (unless that's what you do :smiley:). If you open source, you can get other people to help solve those "infrastructure" challenges.
 
 It's also a great recruitment tool. Developers can look at the code you produce and see how you work, which is the kind of work they might be doing if they join your team.
 
