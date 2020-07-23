@@ -42,7 +42,7 @@ Everything you open source should be a general purpose tool that can be used by 
 ## Do you want to be really successful? 
 
 * Add emojis! :sparkles: https://gitmoji.carloscuesta.me/
-* Add a company-styled demo page, e.g. [http://tech.wonga.com/angular-multimocks](http://tech.wonga.com/angular-multimocks)
+* Add a company-styled demo page, e.g. [http://nabil-boag.github.io/angular-multimocks/](http://tech.wonga.com/angular-multimocks)
 * Setup a [Travis pipeline](https://travis-ci.com/)
 * Add the code to appropriate open source package management like NPM, Bower or RubyGems
 * Internal PR: let those who are interested know about the new open source repo
